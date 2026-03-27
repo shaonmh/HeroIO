@@ -6,9 +6,9 @@ import img from "../../assets/logo.png";
 
 const Nav = () => {
   return (
-    <div className=" bg-base-100 shadow-sm">
+    <div className=" bg-white shadow-sm">
       <div className="w-11/12 mx-auto navbar">
-        <div className="navbar-start">
+        <div className="sm:navbar-start lg:hidden">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
               <svg
@@ -47,7 +47,7 @@ const Nav = () => {
             </ul>
           </div>
         </div>
-        <div className="navbar-end lg:hidden">
+        <div className="navbar-end lg:navbar-start">
           <Link to="/" className="text-xl flex items-center gap-2 font-bold">
             <img className="w-10" src={img} alt="Logo" />
             <span className="text-violet-500">HERO.IO</span>

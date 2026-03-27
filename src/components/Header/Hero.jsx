@@ -17,11 +17,11 @@ const Hero = () => {
           into digital experiences that truly make an impact.
         </p>
         <div className="flex gap-5 lg:gap-10 justify-center p-2 ">
-          <button className="btn btn-lg btn-outline border border-gray-300 text-lg">
+          <button className="btn btn-lg bg-white btn-outline border border-gray-300 text-lg">
             <IoLogoGooglePlaystore />
             Google Play
           </button>
-          <button className="btn btn-lg btn-outline border border-gray-300 text-lg">
+          <button className="btn btn-lg bg-white btn-outline border border-gray-300 text-lg">
             <FaAppStoreIos />
             App Store
           </button>

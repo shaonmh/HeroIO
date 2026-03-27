@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import AppCard from "./AppCard";
+import { Link } from "react-router";
 
 const Trending = () => {
   const [appData, setAppData] = useState([]);
@@ -18,14 +19,19 @@ const Trending = () => {
       <div className="w-11/12 mx-auto">
         <div className="trendin-apps grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 justify-center">
           {appData.slice(0, 8).map((app) => (
-            <AppCard app={app} key={app.id}></AppCard>
+            <Link to={`/appdetails/${app.id}`}>
+              <AppCard app={app} key={app.id}></AppCard>
+            </Link>
           ))}
         </div>
 
         <div className="flex justify-center my-10">
-          <button className="btn-accent btn btn-lg w-50 bg-linear-to-r from-blue-500 to-violet-500 text-gray-50 border-0">
+          <Link
+            to="/appss"
+            className="btn-accent btn btn-lg w-50 bg-linear-to-r from-blue-500 to-violet-500 text-gray-50 border-0"
+          >
             Show All
-          </button>
+          </Link>
         </div>
       </div>
     </div>
