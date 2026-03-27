@@ -27,7 +27,7 @@ const Trending = () => {
 
         <div className="flex justify-center my-10">
           <Link
-            to="/appss"
+            to="/apps"
             className="btn-accent btn btn-lg w-50 bg-linear-to-r from-blue-500 to-violet-500 text-gray-50 border-0"
           >
             Show All
