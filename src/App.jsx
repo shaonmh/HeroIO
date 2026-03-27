@@ -1,9 +1,16 @@
 import "./App.css";
+import Footer from "./components/Footer/Footer";
+import Hero from "./components/Header/Hero";
+import Nav from "./components/Header/Nav";
+import Trending from "./components/Trending/Trending";
 
 function App() {
   return (
     <>
-      <h1>React is Awesome</h1>
+      <Nav></Nav>
+      <Hero></Hero>
+      <Trending></Trending>
+      <Footer></Footer>
     </>
   );
 }

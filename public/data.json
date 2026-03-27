@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg",
+    "description": "Connect with friends and the world around you on Facebook. Share updates, photos, videos, and more.",
+    "size": 84,
+    "reviews": 15200000,
+    "ratingAvg": 4.0,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 8500000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
+    "description": "Watch, listen, and discover with YouTube. Stream videos, music, news, and more from around the world.",
+    "size": 120,
+    "reviews": 22000000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5400000 },
+      { "name": "5 star", "count": 14000000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
+    "description": "Explore photos and videos, follow your favorite accounts, and share your moments with the world.",
+    "size": 72,
+    "reviews": 18000000,
+    "ratingAvg": 4.2,
+    "downloads": 6000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1400000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "description": "Simple, reliable, private messaging and calling for free, available all over the world.",
+    "size": 55,
+    "reviews": 20000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 12500000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "image": "https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-128.png",
+    "description": "Discover and create short videos with your friends. Watch trending content, music, and challenges.",
+    "size": 95,
+    "reviews": 17000000,
+    "ratingAvg": 4.5,
+    "downloads": 4500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 4200000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "image": "https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Snapchat-128.png",
+    "description": "Talk to your friends, share snaps, discover stories, and explore the world through your camera.",
+    "size": 68,
+    "reviews": 11000000,
+    "ratingAvg": 3.9,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1100000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "description": "Fast and secure messaging with groups, channels, bots, and file sharing up to 2GB.",
+    "size": 60,
+    "reviews": 13000000,
+    "ratingAvg": 4.5,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 3250000 },
+      { "name": "5 star", "count": 8500000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg",
+    "description": "Email from Google — fast, organized, and reliable. Get 15GB of free storage and powerful search.",
+    "size": 45,
+    "reviews": 16000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "description": "Listen to music and podcasts for free. Discover new artists, playlists, and albums you'll love.",
+    "size": 110,
+    "reviews": 19000000,
+    "ratingAvg": 4.4,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1100000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 12500000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "image": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-128.png",
+    "description": "Watch TV shows and movies anytime, anywhere. Stream unlimited content with your Netflix subscription.",
+    "size": 130,
+    "reviews": 14000000,
+    "ratingAvg": 4.3,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg",
+    "description": "Navigate with real-time GPS, traffic updates, and turn-by-turn directions. Explore restaurants and more.",
+    "size": 88,
+    "reviews": 21000000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1100000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 14000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "image": "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-meet-128.png",
+    "description": "Video conferencing, webinars, and chat. Connect with your team and clients from anywhere.",
+    "size": 75,
+    "reviews": 9000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 750000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "description": "Discover ideas for recipes, home design, fashion, and more. Save and organize your favorite pins.",
+    "size": 62,
+    "reviews": 8500000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2250000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
+    "description": "Connect with professionals, find jobs, and grow your career on the world's largest professional network.",
+    "size": 90,
+    "reviews": 10000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5500000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg",
+    "description": "See what's happening in the world right now. Follow topics, people, and breaking news in real time.",
+    "size": 78,
+    "reviews": 12000000,
+    "ratingAvg": 3.8,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  }
+]
