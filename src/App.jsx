@@ -5,14 +5,7 @@ import Nav from "./components/Header/Nav";
 import Trending from "./components/Trending/Trending";
 
 function App() {
-  return (
-    <>
-      <Nav></Nav>
-      <Hero></Hero>
-      <Trending></Trending>
-      <Footer></Footer>
-    </>
-  );
+  return <></>;
 }
 
 export default App;

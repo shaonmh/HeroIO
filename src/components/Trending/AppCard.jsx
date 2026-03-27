@@ -16,10 +16,10 @@ const AppCard = ({ app }) => {
   };
   return (
     <div className="card bg-base-100  shadow-sm flex items-center ">
-      <figure className="h-50 w-50 my-5 border border-gray-200 p-5 ">
+      <figure className="h-70 w-70 my-5 border border-gray-200 p-8 ">
         <img className="w-full" src={app.image} alt={app.title} />
       </figure>
-      <div className="card-body px-0 py-5  w-7/10 mx-auto">
+      <div className="card-body px-0 py-3  w-7/10 mx-auto">
         <h2 className="text-center text-xl font-semibold ">{app.title}</h2>
         <div className=" flex no-wrap  justify-between ">
           <span className="badge font-bold badge-accent badge-soft flex justify-center items-center gap-1">

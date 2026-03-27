@@ -29,25 +29,31 @@ const Nav = () => {
             </div>
             <ul
               tabIndex="-1"
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+              className="flex flex-col gap-5 px-5 py-3 dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
               <li>
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to="/app">App</Link>
+                <Link to="/apps">Apps</Link>
               </li>
               <li>
                 <Link to="/installation">Installation</Link>
               </li>
+              <a className="btn btn-sm px-0 btn-outline bg-linear-to-r from-blue-500 to-violet-500 text-gray-50 ">
+                <FaGithub />
+                Contribute
+              </a>
             </ul>
           </div>
+        </div>
+        <div className="navbar-end lg:hidden">
           <Link to="/" className="text-xl flex items-center gap-2 font-bold">
             <img className="w-10" src={img} alt="Logo" />
             <span className="text-violet-500">HERO.IO</span>
           </Link>
         </div>
-        <div className="navbar-center hidden lg:flex">
+        <div className=" navbar-center hidden lg:flex">
           <ul className=" flex gap-10 text-md px-1">
             <li>
               <Link to="/">Home</Link>
@@ -61,7 +67,7 @@ const Nav = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn bg-linear-to-r from-blue-500 to-violet-500 text-gray-50 ">
+          <a className="btn bg-linear-to-r hidden md:flex from-blue-500 to-violet-500 text-gray-50 ">
             <FaGithub />
             Contribute
           </a>

@@ -9,14 +9,14 @@ const Trending = () => {
 
   return (
     <div>
-      <div className="w-5/9 mx-auto text-center py-20">
-        <h1 className="text-5xl font-semibold">Trending Apps</h1>
-        <p className="text-gray-500 my-5 text-xl">
+      <div className=" w-full p-3 lg:w-5/9 mx-auto text-center py-20">
+        <h1 className="text-4xl lg:text-5xl font-semibold">Trending Apps</h1>
+        <p className="text-gray-500 my-8 lg:my-5 text-lg lg:text-xl">
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
       <div className="w-11/12 mx-auto">
-        <div className="trendin-apps grid grid-cols-4 gap-3 justify-center">
+        <div className="trendin-apps grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 justify-center">
           {appData.slice(0, 8).map((app) => (
             <AppCard app={app} key={app.id}></AppCard>
           ))}
